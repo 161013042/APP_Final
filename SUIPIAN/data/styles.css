@@ -20,6 +20,8 @@
   text-align:center;
   line-height:normal;
 }
+._图片 {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -66,7 +68,7 @@
 }
 .line {
 }
-._图片 {
+._图片1 {
   color:#000000;
 }
 ._形状1 {
